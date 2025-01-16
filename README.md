@@ -47,8 +47,8 @@ deepseek-llm-software-analysis
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/deepseek-llm-software-analysis.git
-cd deepseek-llm-software-analysis
+git clone https://github.com/yourusername/repoName.git
+cd repoName
 pip install -r requirements.txt
 ```
 
