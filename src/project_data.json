@@ -1,0 +1,33 @@
+{
+    "project_name": "MVN Project",
+    "description": "This is an example project for software life cycle analysis.",
+    "repository_url": "https://github.com/taoufikmohamed/testmvnapp",
+    "development_stages": [
+      {
+        "stage": "Planning",
+        "details": "Requirements gathering, project planning, and initial design."
+      },
+      {
+        "stage": "Development",
+        "details": "Coding, unit testing, and code reviews."
+      },
+      {
+        "stage": "Testing",
+        "details": "Integration testing, system testing, and user acceptance testing."
+      },
+      {
+        "stage": "Deployment",
+        "details": "Deployment to production environment and monitoring."
+      },
+      {
+        "stage": "Maintenance",
+        "details": "Bug fixes, updates, and ongoing support."
+      }
+    ],
+    "devops_practices": {
+      "version_control": "Git",
+      "ci_cd": "GitHub Actions",
+      "containerization": "Docker",
+      "monitoring": "Prometheus"
+    }
+  }
