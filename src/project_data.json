@@ -1,7 +1,7 @@
 {
     "project_name": "MVN Project",
     "description": "This is an example project for software life cycle analysis.",
-    "repository_url": "https://github.com/taoufikmohamed/testmvnapp",
+    "repository_url": "https://github.com/userName/repoName",
     "development_stages": [
       {
         "stage": "Planning",
